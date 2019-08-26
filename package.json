@@ -2,7 +2,7 @@
   "name": "newrecipe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://joe-dumford.github.io/reactRecipeMe"
+  "homepage": "http://joe-dumford.github.io/reactRecipeMe",
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
